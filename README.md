@@ -1,4 +1,4 @@
-Development environment for AGILE
+Development environment for AGILE (A)
 =================================
 
 This repository gathers a consistent set of all the code needed to compile and run AGILE from source.
